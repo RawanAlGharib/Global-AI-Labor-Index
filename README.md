@@ -9,7 +9,7 @@ This project evaluates the macroeconomic exposure of global labor markets to Gen
 
 The goal is to move beyond simple "job loss" predictions and understand whether a nation has the structural infrastructure to *capitalize* on AI augmentation, or if it faces a severe risk of labor displacement.
 
-> **📊 View the Interactive Tableau Dashboard Here: [https://public.tableau.com/views/GlobalAILaborDivideStructuralRiskvs_DigitalReadiness/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
+> **📊 View the Interactive Tableau Dashboard Here:[https://public.tableau.com/views/GlobalAILaborDivideStructuralRiskvs_DigitalReadiness/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
 
 *(Optional: Drag and drop a screenshot of your finished Tableau Dashboard here!)*
 
