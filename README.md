@@ -1,18 +1,17 @@
-# 🌍 Global AI Labor Vulnerability Index
+# Global AI Labor Vulnerability Index
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Engineering-green?style=for-the-badge&logo=pandas)
 ![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-orange?style=for-the-badge&logo=tableau)
 
-## 📌 Executive Summary
+## Executive Summary
 This project evaluates the macroeconomic exposure of global labor markets to Generative AI. By engineering an original **AI Vulnerability Index** and cross-referencing it with **National Digital Readiness**, this analysis categorizes economies into four distinct strategic quadrants. 
 
 The goal is to move beyond simple "job loss" predictions and understand whether a nation has the structural infrastructure to *capitalize* on AI augmentation, or if it faces a severe risk of labor displacement.
 
-> **📊 View the Interactive Tableau Dashboard Here:[https://public.tableau.com/views/GlobalAILaborDivideStructuralRiskvs_DigitalReadiness/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
+> **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/GlobalAILaborDivideStructuralRiskvs_DigitalReadiness/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-*(Optional: Drag and drop a screenshot of your finished Tableau Dashboard here!)*
-
+![Regional Climate Readiness Map](docs/map_screenshot.png)
 ---
 
 ## 🏗️ Data Architecture & Methodology
