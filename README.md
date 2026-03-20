@@ -11,7 +11,7 @@ The goal is to move beyond simple "job loss" predictions and understand whether 
 
 > **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/GlobalAILaborDivideStructuralRiskvs_DigitalReadiness/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Regional Climate Readiness Map](docs/map_screenshot.png)
+![Global AI Labor Dashboard](Global_AI_Labor_Dashboard.png)
 ---
 
 ## 🏗️ Data Architecture & Methodology
