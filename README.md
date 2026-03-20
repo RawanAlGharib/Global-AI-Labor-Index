@@ -57,7 +57,7 @@ To replicate the data extraction and index calculation:
    ```bash
    pip install pandas requests
 3. Run the ETL script:
-
 ```bash
 python extract_ilo_data.py
+```
 4. The script will automatically generate the Global_AI_Labor_Index_Latest.csv file used for the visualization.
