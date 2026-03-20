@@ -14,7 +14,7 @@ The goal is to move beyond simple "job loss" predictions and understand whether 
 ![Global AI Labor Dashboard](Global_AI_Labor_Dashboard.png)
 ---
 
-## 🏗️ Data Architecture & Methodology
+## Data Architecture & Methodology
 
 This project utilizes a custom Python ETL (Extract, Transform, Load) pipeline that interacts directly with live macroeconomic APIs. 
 
@@ -29,7 +29,7 @@ This project utilizes a custom Python ETL (Extract, Transform, Load) pipeline th
 
 ---
 
-## 📊 Strategic Findings: The Four Quadrants
+## Strategic Findings: The Four Quadrants
 
 The resulting Tableau scatter plot categorizes the global economy into four distinct risk profiles, split by the sample averages for AI Exposure (40) and Internet Penetration (71%):
 
@@ -48,7 +48,7 @@ The resulting Tableau scatter plot categorizes the global economy into four dist
 
 ---
 
-## 💻 How to Run the Pipeline
+## How to Run the Pipeline
 
 To replicate the data extraction and index calculation:
 
